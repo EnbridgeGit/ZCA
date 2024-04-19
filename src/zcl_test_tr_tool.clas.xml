@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_TEST_TR_TOOL</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Test class for TR tool</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>V_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>test data element for TR tool</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>ZTEST_M1</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Method 1 public</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>ZTEST_M2</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Method 2 Protected</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>ZTEST_M3</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Method 3 Private</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

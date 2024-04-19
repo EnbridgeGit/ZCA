@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZTR</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>No Data Found for the above Combination</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Error in ALV Display</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Please Enter Valid Project ID</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Please Enter Valid Report Name</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Please Enter Valid Smartform Name</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Please Enter Valid Table Name</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Please Enter Valid Domain Name</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Please Enter Valid Function Group Name</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Please Enter Valid Function Module Name</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>No Application Program Found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Please Enter Mandatory Project ID or Transport Request Field</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Please Enter Mandatory Report / Program Field</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Please Enter Mandatory Target System Field</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Empty Value is Invalid, Please Enter Object Name</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Empty Value is Invalid, Please Enter Transport Request Number</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>RFC Call to Target System Failed</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>RFC destination doesn&apos;t exist</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Please Enter Released Transport Request</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>Function Module for Smart Form Doesn&apos;t Exists</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTR</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>&amp; &amp; &amp; &amp;</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
